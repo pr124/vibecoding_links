@@ -17,14 +17,29 @@ Understand human nature, and you'll always find a way to succeed.
 
 [Everyone’s asking me what to sell in 2026.](https://x.com/realbrianmoran/status/2028514494972932407)
 
-## Vibecoding guides and rules
+## Vibecoding guides, checklists and rules
 [This is how I scaled my mobile app to $25k+/month (The Complete Guide)](https://x.com/maubaron/status/2027551137768083619)
+
+[I built 10 apps in 10 months and make $800,000/yr ( full guide )](https://x.com/ErnestoSOFTWARE/status/2014110519913857122)
+
+[How We Built a 40-App Portfolio With 50M+ Downloads (And Hit #1 on the App Store Twice)](https://x.com/helloryanj/status/2014090308867264723)
 
 [Vibe Coding 2.0 : 18 Rules to be the Top 1% builder](https://x.com/Hartdrawss/status/2026198305362083910)
 
 [The $10k MRR Stack - How I ship Mobile Apps](https://x.com/WasimShips/status/2025830907358347662)
 
+[Here's the ULTIMATE submission checklist ( Bookmark this to ship)](https://x.com/Hartdrawss/status/2022272233515712847)
+
+[Checklist before App Store submission](https://x.com/Hartdrawss/status/2019705306687697371)
+
 ## UI
+[Figma](https://www.figma.com/community/mobile-apps/)
+[UXSnaps](https://www.uxsnaps.com/)
+[Mobbin](https://mobbin.com/)
+[Dribbble](https://dribbble.com/)
+[Spottedinprod](https://www.spottedinprod.com/)
+[Design/UI/UX skills](https://impeccable.style/)
+
 Profitable iOS apps have 1 thing in common, 3 easy retention loops:
 - streaks
 - reminders
@@ -43,6 +58,9 @@ Retention > features!
 
 ## Security
 [Vibe coding security checklist](https://x.com/DeFiMinty/status/2029049629287895528)
+
+[how to build secure vibe-coded apps that don't get hacked
+](https://x.com/burakeregar/status/2014696329549648137)
 
 
 ## UGC  
@@ -64,6 +82,8 @@ Retention > features!
 
 [Nano Banana + Manus + Arcads + OpenClaw = ai content factory guide](https://x.com/maverickecom/status/2027416902671155207)
 
+[Nano Banana Pro + MassContent + MassUGC = AI vid factory](https://x.com/TechWith_Nova/status/2024264027556499914)
+
 [A good strategy is to first figure out how to go viral, then optimize.
 ](https://x.com/iamgdsa/status/2027019954109722760)
 
@@ -72,6 +92,11 @@ Retention > features!
 [How AI Characters Generate Income 24/7
 ](https://x.com/maxxmalist/status/2025263995251220784)
 
+[how to create a $100M+ money making machine with ai ugc that actually feels human](https://x.com/adriansolarzz/status/2025026016180089195)
+
+[I built an AI influencer that posts content 7 days a week.](https://x.com/recap_david/status/2024461045310640210)
+
+[How to find influencers for your app? (and paying them less than $1 CPM for qualified views)](https://x.com/david_attisaas/status/2020876062180204993)
 
 ## TikTok
 Day 1
@@ -100,6 +125,10 @@ After Day 30
 Rule:
 Don’t scale before something works
 
+[Using proxies to target US audiences](https://x.com/jessieclipping/status/2024561461864124505)
+
+[TikTok account warmup](https://x.com/jackfriks/status/1856013303169847470)
+
 [10 TikTok growth hacks we've been quietly tracking across hundreds of app accounts](https://x.com/wesocialgrowth/status/2026371587298275834)
 
 [How i made $34,567 in 4 months posting TT Slideshows](https://x.com/xaviergrowths/status/2028548006942064879)
@@ -109,13 +138,38 @@ Don’t scale before something works
 
 [This slideshow got 1.4M views With literally 1 single word. “The ilegal formula to wake up at 4:30AM” The word “Ilegal”, can be the difference Between 0 or 1M views](https://x.com/manucastilloll/status/2028170385561211057)
 
+[This video format keeps going viral. Hook: 😳 Surprised girl on screen. Screen Text: ex.“I found this app and it kinda feels illegal"](https://x.com/KCodes7777/status/2023769392404660354)
+
 [how I made almost 6 figures posting AI slideshows for apps 
 ](https://x.com/Laura6108218367/status/2025694791451767007)
 
+[TikTok farming playbook for app marketing (30 phones, 50M+ views)
+](https://x.com/JosephKChoi/status/2024201897322709065)
+
+[Gotten 3M+ views. Brand new account. 100% organic.](https://x.com/KCodes7777/status/2023900671003836437)
+
+[how you can outproduce entire creative teams with 5 tools (ai ugc pipeline)
+](https://x.com/knoxtwts/status/2023749545939624246)
+
+[How I made $22k in 8 months posting faceless tiktoks for apps (and how you can start this week)](https://x.com/jessieclipping/status/2022745577608380794)
+
 ## Claude Code and skills
+[the complete guide to building skills for claude/codex
+](https://x.com/rohit4verse/status/2021622526112358663)
+
 [Best Practices for Claude Code (Use these to make Claude Code 100x Powerful):](https://x.com/Meer_AIIT/status/2027509711722188976)
 
+[Claude Code tips from Boris](https://x.com/bcherny/status/2017742741636321619)
+
 ## OpenClaw
+[OpenClaw security checklist](Your OpenClaw setup can be hacked in under 5 minutes)
+
+[How my OpenClaw agent, Larry, got millions of TikTok views in one week. (Full step-by-step guide)](https://x.com/oliverhenry/status/2022011925903667547)
+
+[give your OpenClaw these 2 skills & get millions of tikt0k views this month](https://x.com/jackfriks/status/2022334105820471632)
+
 [This OpenClaw AI Agent Made Me $10K Clipping Pop Culture Content...](https://x.com/jacobgrowth/status/2027816234964946977)
 
 [How our OpenClaw agent "Eddie" helps us make $70k/mo with B2C Apps ( step by step )](https://x.com/ErnestoSOFTWARE/status/2027105511569809899)
+
+[you can now farm millions of tiktok views straight from your phone - introducing the genviral openclaw skill](https://x.com/onlinedopamine/status/2023725503514046780)
