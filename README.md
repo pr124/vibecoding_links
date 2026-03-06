@@ -162,7 +162,7 @@ Don’t scale before something works
 [Claude Code tips from Boris](https://x.com/bcherny/status/2017742741636321619)
 
 ## OpenClaw
-[OpenClaw security checklist](https://x.com/johann_sath/status/2023764075906560247))
+[OpenClaw security checklist](https://x.com/johann_sath/status/2023764075906560247)
 
 [How my OpenClaw agent, Larry, got millions of TikTok views in one week. (Full step-by-step guide)](https://x.com/oliverhenry/status/2022011925903667547)
 
