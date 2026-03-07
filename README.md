@@ -34,6 +34,8 @@ Understand human nature, and you'll always find a way to succeed.
 
 [Checklist before App Store submission](https://x.com/Hartdrawss/status/2019705306687697371)
 
+[App Privacy Generator](https://www.app-privacy-policy.com/)
+
 ## UI
 [Figma](https://www.figma.com/community/mobile-apps/)
 
