@@ -126,6 +126,8 @@ Retention > features!
 
 [Using pexels to create consistent posts](https://x.com/KCodes7777/status/2029696157790728516)
 
+[$550/hr AI creative director.](https://x.com/FynCas/status/2031026800696938855)
+
 ## TikTok
 Day 1
 → Create brand new TikTok + Instagram
@@ -194,6 +196,8 @@ Don’t scale before something works
 [This OpenClaw AI Agent Made Me $10K Clipping Pop Culture Content...](https://x.com/jacobgrowth/status/2027816234964946977)
 
 [how to make money so fast with OpenClaw it feels ILLEGAL 🦞💰](https://x.com/wickedguro/status/2025967492359913862)
+
+[short form video marketing machine using OpenClaw](https://x.com/gregisenberg/status/2031107609852325980)
 
 [How our OpenClaw agent "Eddie" helps us make $70k/mo with B2C Apps ( step by step )](https://x.com/ErnestoSOFTWARE/status/2027105511569809899)
 
