@@ -201,4 +201,4 @@ Don’t scale before something works
 
 [How our OpenClaw agent "Eddie" helps us make $70k/mo with B2C Apps ( step by step )](https://x.com/ErnestoSOFTWARE/status/2027105511569809899)
 
-[you can now farm millions of tiktok views straight from your phone - introducing the genviral openclaw skill](https://x.com/onlinedopamine/status/2023725503514046780)
+[How to Build an OpenClaw That Automates Your Marketing](https://x.com/startupideaspod/status/2031100491715981806)
