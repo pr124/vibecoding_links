@@ -1,16 +1,6 @@
 ## Ideas
 [App store tracker](https://www.appstoretracker.com/)
 
-You'll never go broke if you sell to:
-- Men's lust
-- Women's desire for beauty
-- Elderly's health
-- Cildren's education
-- Rich people's fear of loss
-- Poor people desire to get rich quick
-
-Understand human nature, and you'll always find a way to succeed.
-
 Here are the best niches to build in if you want to beat those odds.
 
 Health & Fitness
@@ -21,8 +11,6 @@ First year LTV sits at $32.16, with 37.6% of trial users converting to paid in N
 
 Travel
 The highest trial-to-paid rate of any category at 43.5%. It's seasonal by nature, but that works in your favour. 8% of churned users reactivate every year when their next trip comes around. Hard to beat a built-in comeback loop like that.
-
-[22 profitable B2C app niches you can start building in 2026](https://x.com/muratworks/status/2028808666346823701)
 
 [don‘t know what product or feature to build?](https://x.com/onlinedopamine/status/2028782843732840829)
 
@@ -38,34 +26,13 @@ Profitable niches usually have 3 things:
 
 [I built 10 apps in 10 months and make $800,000/yr ( full guide )](https://x.com/ErnestoSOFTWARE/status/2014110519913857122)
 
-[How We Built a 40-App Portfolio With 50M+ Downloads (And Hit #1 on the App Store Twice)](https://x.com/helloryanj/status/2014090308867264723)
-
 [Vibe Coding 2.0 : 18 Rules to be the Top 1% builder](https://x.com/Hartdrawss/status/2026198305362083910)
 
 [The $10k MRR Stack - How I ship Mobile Apps](https://x.com/WasimShips/status/2025830907358347662)
 
-[MCP, plugins and skills checklist](https://x.com/designbyaron/status/2029445004234498246)
-
 [Here's the ULTIMATE submission checklist ( Bookmark this to ship)](https://x.com/Hartdrawss/status/2022272233515712847)
 
-[Checklist before App Store submission](https://x.com/Hartdrawss/status/2019705306687697371)
-
 [Pre-submission compliance scanner for the Apple App Store Greenlight repo](https://github.com/RevylAI/greenlight)
-
-## UI
-[Figma](https://www.figma.com/community/mobile-apps/)
-
-[UXSnaps](https://www.uxsnaps.com/)
-
-[Mobbin](https://mobbin.com/)
-
-[Dribbble](https://dribbble.com/)
-
-[Spottedinprod](https://www.spottedinprod.com/)
-
-[Design/UI/UX skills](https://impeccable.style/)
-
-[Before.click](https://before.click/)
 
 # Icons
 [Lucide (Free)](https://lucide.dev/)
@@ -83,6 +50,21 @@ Profitable niches usually have 3 things:
 [Line Icons (Free + Paid)](https://lineicons.com/)
 
 [Streamline (Paid)](https://www.streamlinehq.com/)
+
+## UI/UX
+[Figma](https://www.figma.com/community/mobile-apps/)
+
+[UXSnaps](https://www.uxsnaps.com/)
+
+[Mobbin](https://mobbin.com/)
+
+[Dribbble](https://dribbble.com/)
+
+[Spottedinprod](https://www.spottedinprod.com/)
+
+[Design/UI/UX skills](https://impeccable.style/)
+
+[Before.click](https://before.click/)
 
 Profitable iOS apps have 1 thing in common, 3 easy retention loops:
 - streaks
@@ -111,39 +93,21 @@ Retention > features!
 ## UGC  
 [the only skill you should be learning right now](https://x.com/Mho_23/status/2032114413763731542)
 
-[Why your content won't blow up (and how to actually get viral videos)](https://x.com/jessieclipping/status/2027030716219822359)
-
-[How to Build an AI Content Factory That Generates $50K-$300K/mo Using Stunt](https://x.com/JamesEbringer/status/2029606349949018441)
-
 [how to master AI content (step by step playbook)](https://x.com/maxxmalist/status/2029262055555969297)
+
+[Why your content won't blow up (and how to actually get viral videos)](https://x.com/jessieclipping/status/2027030716219822359)
 
 [here's how brazilians affiliates are scaling b2c offers to 7-figs with AI slideshows...](https://x.com/adriansolarzz/status/2029346469119991974)
 
 [The Goldrush is here, Full guide to make $30k/mo with AI influencers selling apps. ( Open Claw )](https://x.com/ErnestoSOFTWARE/status/2028947872847413388)
 
-[How to do UGC in 2026 Guide](https://x.com/mikey_starts/status/2028825357458063691)
-
-[all you need for a video like this is a girl acting surprised](https://x.com/SimonasDip/status/2028474599797596367)
-
 [6 viral posts for simple text-wall videos](https://x.com/SimonasDip/status/2028183619697607093)
 
 [Nano Banana + Manus + Arcads + OpenClaw = ai content factory guide](https://x.com/maverickecom/status/2027416902671155207)
 
-[Nano Banana Pro + MassContent + MassUGC = AI vid factory](https://x.com/TechWith_Nova/status/2024264027556499914)
-
 [A good strategy is to first figure out how to go viral, then optimize.](https://x.com/iamgdsa/status/2027019954109722760)
 
-[this is the easiest way to get your first 100 users](https://x.com/gauravsbuilding/status/2027265169559334968)
-
 [How AI Characters Generate Income 24/7](https://x.com/maxxmalist/status/2025263995251220784)
-
-[how to create a $100M+ money making machine with ai ugc that actually feels human](https://x.com/adriansolarzz/status/2025026016180089195)
-
-[I built an AI influencer that posts content 7 days a week.](https://x.com/recap_david/status/2024461045310640210)
-
-[How to find influencers for your app? (and paying them less than $1 CPM for qualified views)](https://x.com/david_attisaas/status/2020876062180204993)
-
-[Using pexels to create consistent posts](https://x.com/KCodes7777/status/2029696157790728516)
 
 [$550/hr AI creative director.](https://x.com/FynCas/status/2031026800696938855)
 
@@ -192,8 +156,6 @@ Don’t scale before something works
 
 [Gotten 3M+ views. Brand new account. 100% organic.](https://x.com/KCodes7777/status/2023900671003836437)
 
-[how you can outproduce entire creative teams with 5 tools (ai ugc pipeline)](https://x.com/knoxtwts/status/2023749545939624246)
-
 [How I made $22k in 8 months posting faceless tiktoks for apps (and how you can start this week)](https://x.com/jessieclipping/status/2022745577608380794)
 
 ## Claude Code and skills
@@ -209,10 +171,6 @@ Don’t scale before something works
 [How my OpenClaw agent, Larry, got millions of TikTok views in one week. (Full step-by-step guide)](https://x.com/oliverhenry/status/2022011925903667547)
 
 [give your OpenClaw these 2 skills & get millions of tikt0k views this month](https://x.com/jackfriks/status/2022334105820471632)
-
-[This OpenClaw AI Agent Made Me $10K Clipping Pop Culture Content...](https://x.com/jacobgrowth/status/2027816234964946977)
-
-[how to make money so fast with OpenClaw it feels ILLEGAL 🦞💰](https://x.com/wickedguro/status/2025967492359913862)
 
 [short form video marketing machine using OpenClaw](https://x.com/gregisenberg/status/2031107609852325980)
 
