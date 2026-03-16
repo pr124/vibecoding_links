@@ -74,6 +74,10 @@ Profitable iOS apps have 1 thing in common, 3 easy retention loops:
 - weekly recap
 Retention > features!
 
+[Neuro App onboarding UI tutorioal](https://x.com/AliGrids/status/2033411362077208604)
+
+[Molyiachi App Paywall design](https://x.com/ayomide_des/status/2032781289711931461)
+
 [The Ultimate Design Toolkit for Builders](https://x.com/jiayun_studio/status/2028342179614064685)
 
 [Mobile Homepage Layout Do's & Don'ts](https://x.com/UiSavior/status/2028982210091446510)
@@ -106,6 +110,12 @@ Retention > features!
 
 
 ## UGC  
+[Arcads](https://www.arcads.ai/)
+
+[Bluma](https://www.getbluma.com/)
+
+[NanoBanana2 Tutorial](https://x.com/NanoBanana/status/2031739390561792084)
+
 [the only skill you should be learning right now](https://x.com/pounddz/status/2032131820368601505)
 
 [how to master AI content (step by step playbook)](https://x.com/maxxmalist/status/2029262055555969297)
@@ -129,6 +139,8 @@ Retention > features!
 [how to make AI UGC that actually looks real...](https://x.com/jacobgrowth/status/2032156967540605251)
 
 [how to grow $100k/mo apps with ai ugc](https://x.com/fuckgrowth/status/2032147774834118704)
+
+[Complete Guide to Building an AI Content Factory that Generates $50K/mo (Beginner + Advanced)](https://x.com/kritarthmittal/status/2029505868266619030)
 
 ## TikTok
 Day 1
